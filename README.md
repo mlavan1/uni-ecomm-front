@@ -1,2 +1,1 @@
-# uni-ecomm-front
-University Final Year Project
+## 🚀 For front-end Angular has been used
